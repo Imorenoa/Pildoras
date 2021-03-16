@@ -41,6 +41,11 @@ public class Coche {
 	
 	//Metodo getter
 	
+	private void largo(int i) {
+		// TODO Esbozo de método generado automáticamente
+		
+	}
+
 	public String getRuedas() {
 		
 		return "El coche tiene 4 ruedas";
@@ -60,10 +65,5 @@ public class Coche {
 		
 	}
 
-	public void setAsientos(String asientos_cuero) {
-		
-		this.asientos_cuero = ;
-		
-	}
 	
 }
