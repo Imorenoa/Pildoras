@@ -6,7 +6,7 @@ public class Coche {
 	 * una variable con el modificador de acceso private, es accesible desde la misma clase solo
 	 * 
 	 */
-	
+	/*
 	private int ruedas;
 	
 	private int largo;
@@ -64,6 +64,6 @@ public class Coche {
 		return "El color del coche es " + color;
 		
 	}
-
+*/
 	
 }
